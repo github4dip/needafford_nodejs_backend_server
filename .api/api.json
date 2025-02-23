@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "apis": [
+    {
+      "identifier": "sandbox-docs",
+      "source": "@sandbox-docs/v3.0#e5z12wlxa7rjlc",
+      "integrity": "sha512-G8TPI/Zuj+mNiN7VOM4bgx1woG5+M2smaSYW1U/Bx3QEoBO9MPzzSmKOTF7V1mtddLlJmC7u4EJXsUQcNmxYkg==",
+      "installerVersion": "6.1.2"
+    }
+  ]
+}
